@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4f6721ff93c375109f8b7d1efaba10f4" extends="sys_import_set_row" label="u_importgroup" max_length="40" name="x_832338_serviceno_u_importgroup" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="import_attribute_name=Group ID" label="Group ID" max_length="40" name="u_group_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Group Name" label="Group Name" max_length="40" name="u_group_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User" label="User" max_length="40" name="u_user" type="string"/>
+    </element>
+</database>
